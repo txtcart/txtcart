@@ -14,5 +14,7 @@ TxtCart helps eCommerce brands **drive more revenue** through **AI-powered SMS m
 - **⚡ Fun Fact** – TxtCart has helped brands generate **$50M+ in revenue** with an **18x average ROI**!
 
 ### How to Reach Us
-📫 Visit our website: [TxtCart](https://txtcartapp.com/)  
+📫 Our website:(https://txtcartapp.com/)  
+✉️ Email Support: support@txtcartapp.com 
+📞 Contact Us: +1 (332) 900-4578
 
